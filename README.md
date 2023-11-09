@@ -27,8 +27,11 @@
 
 #### 전체 화면 (iPad 기준)
 
-<img width="503" alt="downloadPage" src="https://github.com/alwubin/Healthtracker-DownloadPage-Vue/assets/135022491/06fd8868-2abe-4f59-bcfd-6d6346c9a5d1">
+<img width="503" alt="downloadPage" src="https://github.com/alwubin/Healthtracker-DownloadPage-Vue/assets/135022491/70febe3b-4e08-4533-8938-74982a9223e7">
+
 
 #### 주요 기능 동작 화면
-![result](https://github.com/alwubin/Algorithm-BackTracking/assets/135022491/2fa35e9f-9514-4fe1-936f-5ac521ebca05)
+
+![result](https://github.com/alwubin/Healthtracker-DownloadPage-Vue/assets/135022491/4353057b-f6f4-4e87-b4f9-edfc7e593c25)
+
 
